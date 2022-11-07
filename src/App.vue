@@ -1,5 +1,5 @@
 <template>
-  <HelloWorld msg="Test Auto Deploy By Github"/>
+  <HelloWorld msg="Test Auto Deploy By Github Actions"/>
 </template>
 
 <script>
